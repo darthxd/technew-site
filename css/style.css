@@ -1,0 +1,8 @@
+#technewhomekit {
+    cursor: pointer;
+    transition: all .1s ease-out;
+}
+
+#technewhomekit:hover {
+    transform: scale(110%);
+}
